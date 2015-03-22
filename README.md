@@ -16,4 +16,4 @@ The dataset and the code have to be run in the same working directory
 
 `run_analysis.R` contains all the code to perform the analysis. 
 
-`averages_data.txt' is the output table.
+`averages_data.txt` is the output table.
